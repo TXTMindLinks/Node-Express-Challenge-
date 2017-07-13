@@ -1,0 +1,34 @@
+body {
+	background-image: url("http://wallgallery.org/wp-content/uploads/2016/05/Blue-Abstract-hd-desktop.jpg");
+	background-size: cover;
+}
+
+ul li {
+	background: grey;
+	color: grey;
+	display: inline-block;
+	list-style-type: none;
+	padding: 10px;
+	margin: 0px;
+	text-decoration: none;
+	
+}
+ul li a{
+	color: black;
+	font-size: 20px;
+	text-decoration: none;
+	
+}
+p {
+	color: white;
+	font-size: 30px;
+}
+
+
+h1{
+	color: white;
+}
+ul li:hover{
+	background-color: orange
+
+}
